@@ -14,6 +14,7 @@
 		C2D567A21C72E7C100DAD243 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C2D567A01C72E7C100DAD243 /* LaunchScreen.storyboard */; };
 		C2D567AD1C72E7C100DAD243 /* QuizAppTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C2D567AC1C72E7C100DAD243 /* QuizAppTests.swift */; };
 		C2D567B81C72E7C200DAD243 /* QuizAppUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C2D567B71C72E7C200DAD243 /* QuizAppUITests.swift */; };
+		C2D567C61C7468D500DAD243 /* 2005927104726734.jpg in Resources */ = {isa = PBXBuildFile; fileRef = C2D567C51C7468D500DAD243 /* 2005927104726734.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		C2D567B31C72E7C200DAD243 /* QuizAppUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = QuizAppUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		C2D567B71C72E7C200DAD243 /* QuizAppUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QuizAppUITests.swift; sourceTree = "<group>"; };
 		C2D567B91C72E7C200DAD243 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C2D567C51C7468D500DAD243 /* 2005927104726734.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 2005927104726734.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -77,6 +79,7 @@
 		C2D5678B1C72E7C100DAD243 = {
 			isa = PBXGroup;
 			children = (
+				C2D567C51C7468D500DAD243 /* 2005927104726734.jpg */,
 				C2D567961C72E7C100DAD243 /* QuizApp */,
 				C2D567AB1C72E7C100DAD243 /* QuizAppTests */,
 				C2D567B61C72E7C200DAD243 /* QuizAppUITests */,
@@ -231,6 +234,7 @@
 			files = (
 				C2D567A21C72E7C100DAD243 /* LaunchScreen.storyboard in Resources */,
 				C2D5679F1C72E7C100DAD243 /* Assets.xcassets in Resources */,
+				C2D567C61C7468D500DAD243 /* 2005927104726734.jpg in Resources */,
 				C2D5679D1C72E7C100DAD243 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -482,6 +486,7 @@
 				C2D567BE1C72E7C200DAD243 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		C2D567BF1C72E7C200DAD243 /* Build configuration list for PBXNativeTarget "QuizAppTests" */ = {
 			isa = XCConfigurationList;
@@ -490,6 +495,7 @@
 				C2D567C11C72E7C200DAD243 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		C2D567C21C72E7C200DAD243 /* Build configuration list for PBXNativeTarget "QuizAppUITests" */ = {
 			isa = XCConfigurationList;
@@ -498,6 +504,7 @@
 				C2D567C41C72E7C200DAD243 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
