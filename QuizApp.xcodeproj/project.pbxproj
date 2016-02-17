@@ -48,7 +48,7 @@
 		C2D567B31C72E7C200DAD243 /* QuizAppUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = QuizAppUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		C2D567B71C72E7C200DAD243 /* QuizAppUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QuizAppUITests.swift; sourceTree = "<group>"; };
 		C2D567B91C72E7C200DAD243 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		C2D567C51C7468D500DAD243 /* 2005927104726734.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 2005927104726734.jpg; sourceTree = "<group>"; };
+		C2D567C51C7468D500DAD243 /* 2005927104726734.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = 2005927104726734.jpg; path = ../2005927104726734.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -79,7 +79,6 @@
 		C2D5678B1C72E7C100DAD243 = {
 			isa = PBXGroup;
 			children = (
-				C2D567C51C7468D500DAD243 /* 2005927104726734.jpg */,
 				C2D567961C72E7C100DAD243 /* QuizApp */,
 				C2D567AB1C72E7C100DAD243 /* QuizAppTests */,
 				C2D567B61C72E7C200DAD243 /* QuizAppUITests */,
@@ -100,6 +99,7 @@
 		C2D567961C72E7C100DAD243 /* QuizApp */ = {
 			isa = PBXGroup;
 			children = (
+				C2D567C51C7468D500DAD243 /* 2005927104726734.jpg */,
 				C2D567971C72E7C100DAD243 /* AppDelegate.swift */,
 				C2D567991C72E7C100DAD243 /* ViewController.swift */,
 				C2D5679B1C72E7C100DAD243 /* Main.storyboard */,
